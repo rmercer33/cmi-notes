@@ -242,6 +242,20 @@ that discovery and revelation will expand this territory, and realizing
 that no matter how small this cosmic territory may be, it will still at
 times give way to awareness of the All of Everything.
 
+## Particularity
+
+Being whole is being all you are. Being all you are is what the elevated
+Self of form represents.
+
+You are now called to discover how to exist in form without being
+defined as timebound particularity, a man or woman existing in a
+particular time in history.
+
+You can accept the body now as what it is in all its manifestations
+while not seeing it as "bound" by the particularity of time and space.
+It may still exist in a particular time and place, but this is simply
+the nature of one aspect of what you are.
+
 ## Territory of Conscious Awareness
 
 Thus we begin once again with parameters, with a territory of shared
