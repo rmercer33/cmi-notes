@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>028CA648-FD23-4787-B825-5D6B0E5A4586</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{20, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>041A65FB-F56D-4565-A3DA-67CFA01121CF</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>0AE2506B-2FFF-4011-AA06-2DF338A19755</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>16840C46-E73B-40A5-BB7C-CFFA02585593</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>1C84BD1D-CAE9-4C17-AB15-45C9FEB054C2</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{601, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>1E99D798-65F0-41B7-BF1C-67082160E2C9</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{30, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>27915011-F7F1-4154-92FB-6E756853D3FA</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>3045823A-9FA2-48F4-B69F-F036090D285C</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>30867C8B-93B8-4E27-95B4-4CE953BAF2F4</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 2}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>407B3718-C65D-4D67-AF30-BC152666ADD4</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>4B46D47D-F719-42A8-9568-77115B27028E</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>4BF5F53C-C085-4E08-BCB1-6351845E9B84</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 161}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>4F084D80-4C27-4784-9613-9649317A13D8</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>557874CE-254E-4491-BEAB-AB5A9350FD8C</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{7, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>5635615D-155E-4E8A-92DB-AE14B79D00BB</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>5780CF99-0B1B-499E-AA5C-9742BC46597F</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{217.5, 176}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>5834EAC3-D05E-47BC-9E7B-43486CA4F857</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{97, 25}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>64CDE929-0E79-4F59-B9A5-D3E141948753</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>674D8FE7-19BF-4E5F-B3A9-B70F3F93E541</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>6D583695-B883-4070-A980-5733D397CBFF</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{25, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>6EE84191-1E06-40BF-AAA6-EA186A64A639</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>76C53D30-6803-4BB0-8FED-458AC505244E</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>7837ADE4-824C-4473-81B9-0C0A9BAD7F91</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 22}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>7B46FCA5-41B0-4AB5-AA48-EFD60F3BDB65</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>7B7E24C5-B948-4A7B-A462-B60D7C992BA4</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 161}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>7D4DCC8D-F32C-4666-8BCD-985846AA5AE5</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{22, 53}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>7D75085C-E8AB-4F0E-9460-DD18319626CC</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 61}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>972A9AE9-F683-42CD-81C6-2A6349C2B7A0</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 478.5}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>973EBDDE-3EA9-40C7-9E68-B83BAFB825A6</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>9A6F2035-21C7-4808-A387-006A6B86DC9C</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>9DE02F47-A028-4A29-85C0-A6274A30B65D</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 161}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>B2C9D157-894C-4EDB-A2F0-92AB47B5DDB1</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{206, 6}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>B3C5A51F-AF0B-484B-B51F-8558906D8D03</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 603}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>B452BC5B-4CA8-4AC7-9FB1-4B4DAB2EE11A</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Bottombar Visible</key>
+	<false/>
+	<key>C06AE957-4316-462F-B7F8-D6C10335495C</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>C62BB622-4CB0-4099-84EF-65C2FA65B61A</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>D8C40DF7-F7BD-424B-B220-A3720476A18E</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{6, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>DE93F120-CA22-49D8-B0CA-E6DA151E8EDC</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 66}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>DF90EE49-3632-41B4-9C24-05279B7A3E48</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{234, 80}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>E39EE9D7-251F-4952-85A1-60838A4B4534</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 18}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>EB8B3B57-79CB-42BF-86EE-65EA260E5365</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Expanded Ideaspaces For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
+	<array>
+		<string>0336DD79-CF50-4B07-81C6-572BBC23DAAB</string>
+	</array>
+	<key>Expanded Sections</key>
+	<array/>
+	<key>F2F839CA-EF90-4136-87B2-E8302F3491B4</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>F9096FDB-A6EE-4D7B-9230-808897F3010D</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>FB62D813-2ACB-4CE3-8703-1C155218D073</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {854, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>FC660C14-EFCB-40AB-9B97-068FF4551A2A</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{10, 0}, {839, 724}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>FD7E440B-7045-4007-8A4C-59D562138A57</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{0, 161}, {1175, 739}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Last Viewed Ideaspaces For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
+	<array>
+		<string>1E99D798-65F0-41B7-BF1C-67082160E2C9</string>
+	</array>
+	<key>Last Viewed Section</key>
+	<array>
+		<string>9BB642E1-8C32-4645-9607-F976AD81BD07</string>
+	</array>
+	<key>Normal Window Layout</key>
+	<string>{{7, 31}, {1425, 835}}</string>
+	<key>Organizer Visible</key>
+	<true/>
+	<key>Organizer Width</key>
+	<integer>249</integer>
+	<key>Primary Asset UUID Last Viewed</key>
+	<string>76C53D30-6803-4BB0-8FED-458AC505244E</string>
+	<key>Scroll Position For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
+	<string>{0, 0}</string>
+	<key>Secondary View Vertical</key>
+	<true/>
+	<key>Secondary View Visible</key>
+	<false/>
+	<key>Sections Height</key>
+	<integer>115</integer>
+	<key>Sections Visible</key>
+	<false/>
+	<key>Toolbar Visible</key>
+	<true/>
+</dict>
+</plist>
