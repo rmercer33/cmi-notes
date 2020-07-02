@@ -16,7 +16,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {1175, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -34,7 +34,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {854, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -52,7 +52,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{30, 0}, {1175, 739}}</string>
+		<string>{{30, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {839, 724}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -79,7 +79,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 2}, {854, 739}}</string>
+		<string>{{0, 2}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -97,7 +97,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {854, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -106,7 +106,16 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 161}, {839, 724}}</string>
+		<string>{{0, 161}, {1167, 723}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>4CA7E0E5-9270-48A4-A97A-1ADD04A327F6</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{26, 347}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -124,7 +133,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{7, 0}, {854, 739}}</string>
+		<string>{{7, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -133,7 +142,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {854, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -164,12 +173,22 @@
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
+	<key>6557A781-32F8-4049-8A5A-F8B6FA5D9600</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1167, 725}}</string>
+	</dict>
+	<key>66269D1B-4971-4308-B769-2038ABE63A44</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1167, 342}}</string>
+	</dict>
 	<key>674D8FE7-19BF-4E5F-B3A9-B70F3F93E541</key>
 	<dict>
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {839, 724}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -196,7 +215,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {854, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -227,6 +246,11 @@
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
+	<key>7CF44C77-2290-4EB3-BE00-324C187AA7C4</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 2655}, {1167, 725}}</string>
+	</dict>
 	<key>7D4DCC8D-F32C-4666-8BCD-985846AA5AE5</key>
 	<dict>
 		<key>Active Layer</key>
@@ -244,6 +268,25 @@
 		<string>{{0, 61}, {839, 724}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
+	</dict>
+	<key>86A37717-F3B5-4E94-A472-AEA387BC47B4</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1167, 723}}</string>
+	</dict>
+	<key>8867C210-4878-4F1D-845C-16E29E745B2E</key>
+	<dict>
+		<key>Active Layer</key>
+		<string>Default</string>
+		<key>Visible Rect</key>
+		<string>{{14, 137}, {1167, 725}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>948B35DA-5FF9-433F-8F95-3F37CEDFEFEC</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {2953.6738544480404, 1829.9110512133104}}</string>
 	</dict>
 	<key>972A9AE9-F683-42CD-81C6-2A6349C2B7A0</key>
 	<dict>
@@ -277,7 +320,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 161}, {1175, 739}}</string>
+		<string>{{0, 4}, {1167, 725}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -286,7 +329,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{206, 6}, {854, 739}}</string>
+		<string>{{206, 6}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -295,7 +338,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 603}, {854, 739}}</string>
+		<string>{{0, 97}, {1167, 342}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -328,12 +371,17 @@
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
+	<key>CF9A73E3-0186-4C9D-B1ED-057A8C306252</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 3540}, {1167, 763}}</string>
+	</dict>
 	<key>D8C40DF7-F7BD-424B-B220-A3720476A18E</key>
 	<dict>
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{6, 0}, {854, 739}}</string>
+		<string>{{6, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -342,7 +390,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 66}, {854, 739}}</string>
+		<string>{{0, 66}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -351,7 +399,7 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{234, 80}, {854, 739}}</string>
+		<string>{{234, 80}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
@@ -369,16 +417,34 @@
 		<key>Active Layer</key>
 		<string>Default</string>
 		<key>Visible Rect</key>
-		<string>{{0, 0}, {854, 739}}</string>
+		<string>{{0, 0}, {1167, 723}}</string>
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
+	<key>EE825141-8DED-41AA-8DDC-9C9906B81248</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1167, 723}}</string>
+	</dict>
+	<key>Expanded Ideaspaces For Section 00000000-0000-0000-0000-0000000TRASH</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 4BA6FFC1-640B-4BE9-95E0-73B5A03CDB53</key>
+	<array>
+		<string>4BA6FFC1-640B-4BE9-95E0-73B5A03CDB53</string>
+	</array>
 	<key>Expanded Ideaspaces For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
 	<array>
+		<string>9BB642E1-8C32-4645-9607-F976AD81BD07</string>
 		<string>0336DD79-CF50-4B07-81C6-572BBC23DAAB</string>
+		<string>6F4B4201-9029-4A31-8A93-5BD7D8F87D82</string>
 	</array>
-	<key>Expanded Sections</key>
+	<key>Expanded Ideaspaces For Section E8112252-41B2-4322-A7AE-D35E058F1367</key>
 	<array/>
+	<key>Expanded Sections</key>
+	<array>
+		<string>00000000-0000-0000-0000-000000000000</string>
+		<string>00000000-0000-0000-0000-0000000TRASH</string>
+	</array>
 	<key>F2F839CA-EF90-4136-87B2-E8302F3491B4</key>
 	<dict>
 		<key>Active Layer</key>
@@ -424,23 +490,47 @@
 		<key>Zoom Factor</key>
 		<real>1</real>
 	</dict>
+	<key>Last Viewed Ideaspaces For Section 00000000-0000-0000-0000-0000000TRASH</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 4BA6FFC1-640B-4BE9-95E0-73B5A03CDB53</key>
+	<array>
+		<string>86A37717-F3B5-4E94-A472-AEA387BC47B4</string>
+		<string>D5E23B5E-FE96-4502-9EEE-4309C479B018</string>
+		<string>659C1700-510F-4166-AA69-C68E6EA9742D</string>
+		<string>5BEE43C7-2F29-4EE8-8E1D-24420E26402B</string>
+		<string>85F94949-3010-413C-AA84-D3291F5CEB6A</string>
+		<string>0494DB7E-3F57-44AF-A629-3AF1BD53515B</string>
+		<string>3F5CA2CC-F76D-4500-9F79-D6B85CEED69B</string>
+		<string>198A7A61-230D-4623-942B-2112C651EB3F</string>
+		<string>FF75FA71-1708-4248-846C-6DDD27AEF4E5</string>
+		<string>D3E4D4B1-0DFD-44BB-8A47-BE21C5FB7BAC</string>
+		<string>EE825141-8DED-41AA-8DDC-9C9906B81248</string>
+	</array>
 	<key>Last Viewed Ideaspaces For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
 	<array>
-		<string>1E99D798-65F0-41B7-BF1C-67082160E2C9</string>
+		<string>9DE02F47-A028-4A29-85C0-A6274A30B65D</string>
 	</array>
+	<key>Last Viewed Ideaspaces For Section E8112252-41B2-4322-A7AE-D35E058F1367</key>
+	<array/>
 	<key>Last Viewed Section</key>
 	<array>
 		<string>9BB642E1-8C32-4645-9607-F976AD81BD07</string>
 	</array>
 	<key>Normal Window Layout</key>
-	<string>{{7, 31}, {1425, 835}}</string>
+	<string>{{-0, -0}, {1440, 821}}</string>
 	<key>Organizer Visible</key>
 	<true/>
 	<key>Organizer Width</key>
-	<integer>249</integer>
+	<integer>272</integer>
 	<key>Primary Asset UUID Last Viewed</key>
-	<string>76C53D30-6803-4BB0-8FED-458AC505244E</string>
+	<string>9DE02F47-A028-4A29-85C0-A6274A30B65D</string>
+	<key>Scroll Position For Section 00000000-0000-0000-0000-0000000TRASH</key>
+	<string>{0, 0}</string>
+	<key>Scroll Position For Section 4BA6FFC1-640B-4BE9-95E0-73B5A03CDB53</key>
+	<string>{0, 0}</string>
 	<key>Scroll Position For Section 9BB642E1-8C32-4645-9607-F976AD81BD07</key>
+	<string>{0, 396}</string>
+	<key>Scroll Position For Section E8112252-41B2-4322-A7AE-D35E058F1367</key>
 	<string>{0, 0}</string>
 	<key>Secondary View Vertical</key>
 	<true/>
@@ -449,7 +539,7 @@
 	<key>Sections Height</key>
 	<integer>115</integer>
 	<key>Sections Visible</key>
-	<false/>
+	<true/>
 	<key>Toolbar Visible</key>
 	<true/>
 </dict>
